@@ -3,8 +3,8 @@ class Troy < Formula
 
   desc "Fine-tune LLMs on your MacBook with one YAML file"
   homepage "https://gettroy.app"
-  url "https://github.com/avirajkhare00/troy/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "db9a4da7cb08d1349f02f3710549425d76457841dd7d013a7de3793c24ef0cf3"
+  url "https://github.com/avirajkhare00/troy/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "c7594cd794962f7b41006617932625a305730560a04bc952ebc4433163ecc377"
   license "Apache-2.0"
 
   depends_on arch: :arm64
