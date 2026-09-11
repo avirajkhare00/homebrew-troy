@@ -6,7 +6,7 @@ LLMs on your MacBook with one YAML file. https://gettroy.app
 ## Install
 
 ```bash
-brew tap avirajkhare00/troy https://github.com/avirajkhare00/troy-homebrew
+brew tap avirajkhare00/troy
 brew install troy
 ```
 
